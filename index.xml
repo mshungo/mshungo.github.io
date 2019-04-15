@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>khrane</title>
+    <link>https://mshungo.github.io/</link>
+    <description>Recent content on khrane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Mar 2018 20:44:49 +0200</lastBuildDate>
+    
+	<atom:link href="https://mshungo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://mshungo.github.io/about/</link>
+      <pubDate>Sat, 31 Mar 2018 20:44:49 +0200</pubDate>
+      
+      <guid>https://mshungo.github.io/about/</guid>
+      <description>Shungo MORITA
+Powered by :
+ An Apple II UI in CSS Retro Macintosh hugo-theme-sam  </description>
+    </item>
+    
+    <item>
+      <title>2018 03 31</title>
+      <link>https://mshungo.github.io/notes/2018-03-31/</link>
+      <pubDate>Sat, 31 Mar 2018 14:39:52 +0200</pubDate>
+      
+      <guid>https://mshungo.github.io/notes/2018-03-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018 03 31</title>
+      <link>https://mshungo.github.io/posts/2018-03-31/</link>
+      <pubDate>Sat, 31 Mar 2018 14:39:52 +0200</pubDate>
+      
+      <guid>https://mshungo.github.io/posts/2018-03-31/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
