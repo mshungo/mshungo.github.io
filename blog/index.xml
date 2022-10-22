@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on choki</title>
+    <link>https://mshungo.github.io/blog/</link>
+    <description>Recent content in Blog on choki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Oct 2022 09:00:00 +0000</lastBuildDate><atom:link href="https://mshungo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>フランス現代詩におけるソネと自由詩—ギュヴィックの短詩をめぐって</title>
+      <link>https://mshungo.github.io/blog/guillevic/</link>
+      <pubDate>Thu, 20 Oct 2022 09:00:00 +0000</pubDate>
+      
+      <guid>https://mshungo.github.io/blog/guillevic/</guid>
+      <description>発表レジュメ（PDF）
+発表スライド資料（PDF）</description>
+    </item>
+    
+  </channel>
+</rss>
